@@ -19,13 +19,11 @@ p{
 	background-color: slategrey;
 	border: 1px solid black;
         margin: 10px;
-        height: 200px;
+        height: 300px;
         position: relative;
+	float:left;
 	
 
-}
-.row{
-	width:100%;
 }
 #p1 {
 	background-color: #FFAAAA
